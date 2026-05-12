@@ -1,0 +1,8 @@
+2026-05-01 10:15:23 User admin login successful
+2026-05-01 10:17:45 Failed login attempt for user root
+2026-05-01 10:19:02 Unauthorized access attempt from 192.168.1.25
+2026-05-01 10:22:10 User john login successful
+2026-05-01 10:25:44 Failed login attempt for user admin
+2026-05-01 10:28:30 Access denied for user guest
+2026-05-01 10:31:11 Invalid password attempt for user test
+2026-05-01 10:35:02 User manager login successful
