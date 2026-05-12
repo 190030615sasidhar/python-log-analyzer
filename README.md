@@ -34,3 +34,18 @@ This project is a Python-based security log analysis tool designed to review sys
 
 ```bash
 python log_analyzer.py
+
+## Sample Output
+
+```text
+Security Log Analysis Report
+----------------------------
+Total suspicious events found: 4
+
+Suspicious Log Entries:
+2026-05-01 10:17:45 Failed login attempt for user root
+2026-05-01 10:19:02 Unauthorized access attempt from 192.168.1.25
+2026-05-01 10:28:30 Access denied for user guest
+2026-05-01 10:31:11 Invalid password attempt for user test
+
+
